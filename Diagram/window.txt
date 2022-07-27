@@ -1,0 +1,9 @@
+Room Details
+Room Distributation
+Student Details
+MeetSheet
+Accounts
+
+You Cann't CNG Student Room without complete a month, IF you CNG it's Show a different meal account.
+
+Meal Account Close in Same Month, IF You Want To Transjection in different month you must need to Select target Month last date.
